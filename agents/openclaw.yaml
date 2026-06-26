@@ -1,0 +1,12 @@
+interface:
+  display_name: "灵造"
+  short_description: "创作者公开内容与公众号文章研究 Skill"
+  emoji: "🔎"
+  homepage: "https://lingzao.atian.vip"
+requires:
+  env:
+    - "LINGZAO_API_KEY"
+  bins:
+    - "python3"
+    - "bash"
+primary_env: "LINGZAO_API_KEY"
