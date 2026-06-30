@@ -20,14 +20,45 @@ A good benchmark should be:
 - still updating, ideally within the last 15-30 days
 - same track, audience, city, or content format
 - close enough in stage or follower range to learn from
+- at least 1,000 followers by default, unless the user explicitly asks for
+  0-1,000 follower seed-account observation
+- has enough account-level proof: usually several thousand total likes or a
+  visible pattern of multiple notes getting meaningful engagement
 - has recent high-performing notes, not only old hits
 - has clear learnable title, cover, content, comment, or monetization patterns
+
+## Follower Range Gate
+
+Treat follower range as a hard constraint for main recommendations.
+
+- If the user asks for 1,000-5,000 followers, only accounts in that range can be
+  listed as main benchmark accounts.
+- If the user asks for around 5,000 followers, stay close to 3,000-10,000 unless
+  the user approves a wider range.
+- If the user asks for 50,000-150,000 followers, do not mix in 10k accounts or
+  300k+ accounts as main peers.
+
+Use result labels:
+
+- `Main benchmark`: inside the requested range and has account-level proof.
+- `Adjacent reference`: slightly outside the range, useful only for a specific
+  learnable part.
+- `Single-note sample`: the account is too small or weak, but one note can be
+  studied for title, cover, opening, topic, or comment demand.
+- `Not recommended`: too small, too large, stale, mismatched, or lacks proof.
+
+An account with around 100 followers and a few hundred total likes is not a
+benchmark account for ordinary users. Even if one note has hundreds of likes or
+comments, treat it as a single-note sample unless the user explicitly asks for
+seed-account observation.
 
 Avoid using only:
 
 - long-stale accounts
 - huge celebrities or big V accounts
 - accounts with no recent hits
+- accounts below 1,000 followers with no account-level proof
+- accounts far outside the requested follower range
 - one-off emotional viral cases that users cannot reproduce
 - suspicious comment sections with only generic praise
 
@@ -41,6 +72,8 @@ For each account, show:
 - recent hit works and metrics, if available
 - why this account is learnable
 - what not to copy
+- whether it is a main benchmark, adjacent reference, single-note sample, or
+  not recommended
 
 ## Lingzao Upgrade
 
