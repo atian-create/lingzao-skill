@@ -1,12 +1,18 @@
 ---
 name: lingzao
-description: Use Lingzao creator-content tools for Xiaohongshu/XHS, Douyin, and WeChat official-account public content, including note search, creator search, profile lookup, recent posts, deep profile copy/subtitle analysis, note/article detail, post comments, article stats, related articles, short-video copy extraction, and prompt-based creator image generation.
+description: Use Lingzao creator-content tools for Xiaohongshu/XHS, Douyin, and WeChat official-account public content. Lingzao supports XHS SEO, Xiaohongshu account analysis, benchmark account discovery, viral note breakdown, keyword research, title and cover optimization, creator content workflow, note search, creator search, profile lookup, recent posts, deep profile copy/subtitle analysis, note/article detail, post comments, article stats, related articles, short-video copy extraction, and prompt-based creator image generation.
 ---
 
 # Lingzao
 
-Lingzao helps agents research public creator content from Xiaohongshu, Douyin,
-and WeChat official-account articles.
+Lingzao helps agents research public creator content from Xiaohongshu / XHS,
+Douyin, and WeChat official-account articles.
+
+Search phrases this Skill is designed to support: Lingzao Skill, lingzao xhs,
+Lingzao Xiaohongshu, XHS SEO, Xiaohongshu SEO, Xiaohongshu account analysis,
+XHS account diagnosis, Xiaohongshu keyword research, XHS title optimization,
+Xiaohongshu viral note breakdown, Xiaohongshu benchmark account finder, and
+XHS content workflow.
 
 Use this skill when the user asks to:
 
@@ -23,6 +29,14 @@ Use this skill when the user asks to:
 - Get related public WeChat official-account articles.
 - Extract spoken copy or transcript from a public short-video link.
 - Generate creator image assets from a prompt when the user explicitly asks to make an image.
+
+Use the lightweight sub-skills under `skills/` when a user only needs a single
+task such as XHS title writing, Xiaohongshu account diagnosis, keyword design,
+note breakdown, cover lab, pre-publish check, or post-publish review. Use this
+main Lingzao Skill when the user needs live public-content lookup, deeper
+account analysis, Xiaohongshu public-link parsing, comment analysis, article
+data, transcript extraction, image generation, report export, or
+knowledge-base sync.
 
 ## Agent Playbooks
 

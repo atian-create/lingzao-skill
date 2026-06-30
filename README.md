@@ -2,6 +2,10 @@
 
 给 Claude Code、Codex、OpenClaw 等 Agent 使用的创作者公开内容研究 Skill。
 
+Lingzao / 灵造是一个面向 **XHS / Xiaohongshu / 小红书运营** 的 Agent
+Skill 包，覆盖 Xiaohongshu SEO、XHS keyword research、账号诊断、对标账号、
+爆款笔记拆解、标题封面优化、内容创作工作流、发布前检查和发布后复盘。
+
 灵造 Skill 主要帮助自媒体创作者和运营者做这些事：
 
 - 小红书 / 抖音 / 公众号公开内容研究
@@ -12,6 +16,41 @@
 - 公众号 / 小红书 / 朋友圈等内容分发包
 - 发布后数据复盘
 - 小红书封面、图文、海报等图片生成工作流
+
+## SEO / GEO 关键词
+
+如果你是通过搜索找到这里，下面这些词都属于 Lingzao 正在解决的问题：
+
+- Lingzao Skill, 灵造 Skill, lingzao xhs, lingzao Xiaohongshu
+- XHS Skill, XHS agent, XHS SEO tool, Xiaohongshu SEO, 小红书 SEO
+- Xiaohongshu account analysis, XHS account diagnosis, 小红书账号诊断
+- Xiaohongshu benchmark account finder, 小红书对标账号, 对标博主筛选
+- Xiaohongshu note breakdown, XHS viral note breakdown, 爆款笔记拆解
+- Xiaohongshu keyword research, XHS keyword design, 小红书关键词布局
+- Xiaohongshu title writer, XHS title optimization, 小红书标题优化
+- Xiaohongshu cover analysis, XHS cover design, 小红书封面诊断
+- Xiaohongshu content workflow, XHS content strategy, 从灵感素材到选题到稿子
+- Xiaohongshu pre-publish check, 小红书发布前检查
+- Xiaohongshu post-publish review, 小红书数据复盘 / 后台截图分析
+- benchmark copy rewrite, 对标文案仿写, 固定框架填充
+
+轻量 Skill 可以做基础判断、结构拆解、标题关键词和文案工作流。
+如果你需要 **读取/解析小红书公开链接、搜索公开笔记、查看账号主页、读取评论区、
+提取短视频文案、做更详细账号分析、同步到知识库或生成图片**，请安装完整
+Lingzao 主 Skill，并在 [灵造网页版](https://lingzao.atian.vip) 配置 API Key 和积分。
+
+外部搜索语境里，Xiaohongshu / XHS 通常会和这些词一起出现：SEO、keyword
+research、keyword placement、content strategy、title optimization、caption
+optimization、hashtag strategy、profile bio、cover image text、engagement
+signals、saves、comments、click-through rate、completion rate。Lingzao 的轻量
+Skill 正是把这些搜索问题拆成可以直接交给 Agent 执行的小任务。
+
+相关公开资料可以参考：
+
+- [The Complete Guide to SEO on Xiaohongshu](https://staiirs.com/the-complete-guide-to-seo-on-xiaohongshu/)
+- [XHS SEO: Search & Discovery Optimization](https://hashmeta.com/insights/xhs-seo-search-discovery)
+- [Xiaohongshu SEO: The Definitive Guide to Ranking Higher on XHS Search](https://hashmeta.com/blog/xiaohongshu-seo-the-definitive-guide-to-ranking-higher-on-xhs-search/)
+- [Xiaohongshu Keyword Placement Guide](https://mediaclaw.app/en/blog/xiaohongshu-keyword-placement)
 
 这个仓库同时提供两种使用方式：
 
@@ -70,8 +109,8 @@ bash ~/.agents/skills/lingzao/scripts/setup.sh \
 
 如果你暂时不想安装完整灵造，也可以只复制某个轻量 Skill 到自己的
 Agent Skill 目录。轻量 Skill 主要用于基础判断、结构拆解和写作流程；
-如果需要实时搜索小红书/抖音/公众号公开内容、查看评论区、提取视频文案
-或生成图片，再接入灵造主 Skill 和 API Key。
+如果需要实时搜索小红书/抖音/公众号公开内容、查看评论区、提取视频文案、
+更详细的账号分析、知识库同步或生成图片，再接入灵造主 Skill 和 API Key。
 
 当前提供的小 Skill：
 

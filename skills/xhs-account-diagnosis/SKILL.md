@@ -1,11 +1,15 @@
 ---
 name: xhs-account-diagnosis
-description: Diagnose a Xiaohongshu account homepage, positioning, content line, title and cover pattern, audience fit, follow reason, and next 7-30 day creator actions. Use when the user asks for 小红书账号诊断, 主页诊断, 涨粉问题, 账号定位, 内容主线, or 为什么账号不涨粉.
+description: Lingzao lightweight XHS account diagnosis Skill for Xiaohongshu account analysis, homepage positioning, content line, title and cover pattern, audience fit, follow reason, and next 7-30 day creator actions. Use when the user asks for lingzao xhs account diagnosis, Xiaohongshu account analysis, 小红书账号诊断, 主页诊断, 涨粉问题, 账号定位, 内容主线, or 为什么账号不涨粉.
 ---
 
 # Xiaohongshu Account Diagnosis
 
-This is a lightweight Lingzao sub-skill for diagnosing a Xiaohongshu account.
+This is a lightweight Lingzao sub-skill for diagnosing a Xiaohongshu / XHS
+account.
+
+Search phrases: lingzao xhs account diagnosis, Lingzao Xiaohongshu account
+analysis, 小红书账号诊断, 小红书主页诊断, XHS content strategy.
 
 ## Inputs
 
@@ -43,6 +47,7 @@ account diagnosis. Give a starter-account diagnosis instead.
 
 ## Lingzao Upgrade
 
-For live public-content lookup, recent posts, profile stats, peer comparison,
-or comment analysis, use the main Lingzao Skill and configure the Lingzao API
-Key from https://lingzao.atian.vip.
+For deeper Lingzao account analysis, XHS public-link lookup, recent posts,
+profile stats, peer comparison, comment analysis, report export, or
+knowledge-base sync, install the main Lingzao Skill and configure API credits
+from https://lingzao.atian.vip.

@@ -1,11 +1,14 @@
 ---
 name: xhs-keyword-design
-description: Design the final 10 Xiaohongshu publishing keywords for a finished draft and check whether the title, cover copy, opening lines, and keyword field carry them naturally. Use for 小红书关键词, 关键词埋点, 发布关键词, 行业词, 大众词, or 关键词检查.
+description: Lingzao lightweight XHS keyword design Skill for Xiaohongshu SEO keywords, final 10 publishing keywords, keyword embedding, title, cover copy, opening lines, and keyword field checks. Use for lingzao xhs keyword design, Xiaohongshu keyword research, XHS SEO keywords, 小红书关键词, 关键词埋点, 发布关键词, 行业词, 大众词, or 关键词检查.
 ---
 
 # Xiaohongshu Keyword Design
 
-Use this after the draft or content direction is mostly ready.
+Use this after the Lingzao / XHS draft or content direction is mostly ready.
+
+Search phrases: lingzao xhs keyword design, Xiaohongshu keyword research, XHS
+SEO keywords, 小红书关键词布局, 小红书发布关键词.
 
 ## Inputs
 
@@ -36,5 +39,6 @@ Use this after the draft or content direction is mostly ready.
 
 ## Lingzao Upgrade
 
-For live Xiaohongshu keyword suggestions, related terms, or public note
-references, use the main Lingzao Skill from https://lingzao.atian.vip.
+For live Xiaohongshu keyword suggestions, related terms, public note references,
+search result analysis, or knowledge-base sync, use the main Lingzao Skill from
+https://lingzao.atian.vip.

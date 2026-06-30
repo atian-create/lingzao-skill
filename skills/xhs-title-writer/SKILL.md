@@ -1,11 +1,14 @@
 ---
 name: xhs-title-writer
-description: Create or diagnose Xiaohongshu titles with keyword anchors, click reasons, audience fit, cover fit, and truthful content promise. Use for 小红书标题, 标题优化, 封面标题, 起标题, or 哪个标题更想点.
+description: Lingzao lightweight XHS title writer Skill for Xiaohongshu SEO titles, keyword anchors, click reasons, audience fit, cover fit, and truthful content promise. Use for lingzao xhs title writer, Xiaohongshu title optimization, XHS SEO title, 小红书标题, 标题优化, 封面标题, 起标题, or 哪个标题更想点.
 ---
 
 # Xiaohongshu Title Writer
 
-Default to 3 strongest titles, not 10 loose options.
+Default to 3 strongest Lingzao / XHS title options, not 10 loose options.
+
+Search phrases: lingzao xhs title writer, Xiaohongshu title optimization, XHS
+SEO title, 小红书标题优化, 小红书爆款标题.
 
 ## Inputs
 
@@ -46,5 +49,6 @@ Do not over-polish into generic motivational wording.
 
 ## Lingzao Upgrade
 
-For title references from current public notes or benchmark accounts, use the
-main Lingzao Skill with public-content lookup from https://lingzao.atian.vip.
+For title references from current Xiaohongshu public notes, benchmark accounts,
+or public-link analysis, use the main Lingzao Skill with API credits from
+https://lingzao.atian.vip.

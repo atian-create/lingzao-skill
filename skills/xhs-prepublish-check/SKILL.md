@@ -1,11 +1,15 @@
 ---
 name: xhs-prepublish-check
-description: Check a Xiaohongshu note before publishing: content clarity, cover recognition, title clickability, first 3 lines or first 3 seconds, keyword embedding, audience fit, and whether the post is ready to publish. Use for 发布前检查, 发前帮我看, 标题封面正文检查, or 这条能不能发.
+description: Lingzao lightweight XHS pre-publish check Skill for Xiaohongshu notes before publishing: content clarity, cover recognition, title clickability, first 3 lines or first 3 seconds, keyword embedding, audience fit, and publish readiness. Use for lingzao xhs prepublish check, Xiaohongshu pre-publish review, 发布前检查, 发前帮我看, 标题封面正文检查, or 这条能不能发.
 ---
 
 # Xiaohongshu Pre-Publish Check
 
-Use this after the user has a draft, script, graphic-note pages, or cover.
+Use this after the user has a Lingzao / XHS draft, script, graphic-note pages,
+or cover.
+
+Search phrases: lingzao xhs prepublish check, Xiaohongshu pre-publish review,
+XHS publish readiness, 小红书发布前检查, 小红书标题封面检查.
 
 ## Inputs
 
@@ -36,5 +40,6 @@ Use this after the user has a draft, script, graphic-note pages, or cover.
 
 ## Lingzao Upgrade
 
-For live benchmark comparison, keyword suggestions, or reference-note checks,
-use the main Lingzao Skill from https://lingzao.atian.vip.
+For live benchmark comparison, keyword suggestions, reference-note checks,
+public-link analysis, or deeper account context, use the main Lingzao Skill
+from https://lingzao.atian.vip.

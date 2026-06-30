@@ -1,12 +1,15 @@
 ---
 name: xhs-cover-lab
-description: Diagnose or create Xiaohongshu cover concepts, cover copy, visual style routes, reference-image briefs, no-person knowledge cards, face-led covers, interaction-post covers, and text-dense screenshot-style covers. Use for 小红书封面, 封面诊断, 封面文案, 参考图做封面, or 知识卡片.
+description: Lingzao lightweight XHS cover lab Skill for Xiaohongshu cover analysis, cover copy, visual style routes, reference-image briefs, no-person knowledge cards, face-led covers, interaction-post covers, and text-dense screenshot-style covers. Use for lingzao xhs cover lab, Xiaohongshu cover design, XHS cover analysis, 小红书封面, 封面诊断, 封面文案, 参考图做封面, or 知识卡片.
 ---
 
 # Xiaohongshu Cover Lab
 
-Do not generate a cover from one vague sentence if the user wants a good
-result. First ask for reference and style constraints.
+Do not generate a Lingzao / XHS cover from one vague sentence if the user wants
+a good result. First ask for reference and style constraints.
+
+Search phrases: lingzao xhs cover lab, Xiaohongshu cover design, XHS cover
+analysis, 小红书封面诊断, 小红书封面文案.
 
 ## Ask First
 
@@ -40,6 +43,6 @@ Common routes:
 
 ## Lingzao Upgrade
 
-For reference-note search, image generation, or deeper visual style routing,
-use the main Lingzao Skill and configure API credits from
-https://lingzao.atian.vip.
+For reference-note search, XHS public-link analysis, image generation, or
+deeper visual style routing, use the main Lingzao Skill and configure API
+credits from https://lingzao.atian.vip.

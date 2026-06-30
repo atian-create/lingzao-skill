@@ -1,11 +1,14 @@
 ---
 name: xhs-postpublish-review
-description: Review a published Xiaohongshu note using the note link, backend screenshots, title, cover, script, caption, 24-hour data, 48-hour data, or 7-day data. Diagnose exposure, click, read/completion, retention, saves, comments, shares, and follow conversion. Use for 发布后复盘, 小红书数据复盘, 后台截图分析, 24小时复盘, or 为什么这条数据不好.
+description: Lingzao lightweight XHS post-publish review Skill for Xiaohongshu data review using the note link, backend screenshots, title, cover, script, caption, 24-hour data, 48-hour data, or 7-day data. Diagnose exposure, click, read/completion, retention, saves, comments, shares, and follow conversion. Use for lingzao xhs postpublish review, Xiaohongshu data analysis, 发布后复盘, 小红书数据复盘, 后台截图分析, 24小时复盘, or 为什么这条数据不好.
 ---
 
 # Xiaohongshu Post-Publish Review
 
-Do not judge backend screenshots without content context.
+Do not judge Lingzao / XHS backend screenshots without content context.
+
+Search phrases: lingzao xhs postpublish review, Xiaohongshu data analysis,
+XHS analytics review, 小红书数据复盘, 小红书后台截图分析.
 
 ## Inputs
 
@@ -36,5 +39,6 @@ Ask the user to send:
 
 ## Lingzao Upgrade
 
-For live public note detail, comments, and deeper account comparison, use the
-main Lingzao Skill from https://lingzao.atian.vip.
+For live public note detail, comments, deeper account comparison, report export,
+or knowledge-base sync, use the main Lingzao Skill from
+https://lingzao.atian.vip.

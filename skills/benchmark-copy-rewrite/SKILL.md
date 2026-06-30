@@ -1,12 +1,15 @@
 ---
 name: benchmark-copy-rewrite
-description: Extract a reusable writing template from benchmark copy, viral captions, sales scripts, or fixed frameworks, then fill in the user's own topic, product, account direction, audience, city, case, and proof. Use for 对标文案仿写, 套框架, 固定框架填充, 风格差不多, or 按这个模板写.
+description: Lingzao lightweight benchmark copy rewrite Skill for XHS and Xiaohongshu content imitation without copying: extract a reusable writing template from benchmark copy, viral captions, sales scripts, or fixed frameworks, then fill in the user's own topic, product, account direction, audience, city, case, and proof. Use for lingzao benchmark copy rewrite, xhs copywriting template, 对标文案仿写, 套框架, 固定框架填充, 风格差不多, or 按这个模板写.
 ---
 
 # Benchmark Copy Rewrite
 
-Do not directly imitate the benchmark copy. First separate the template from
-the original creator's content.
+Do not directly imitate the benchmark copy. First separate the Lingzao / XHS
+template from the original creator's content.
+
+Search phrases: lingzao benchmark copy rewrite, xhs copywriting template,
+Xiaohongshu caption rewrite, 对标文案仿写, 小红书文案模板.
 
 ## Inputs
 
@@ -39,5 +42,6 @@ the original creator's content.
 
 ## Lingzao Upgrade
 
-For live benchmark-note lookup, full note detail, comment demand, or creator
-distillation, use the main Lingzao Skill from https://lingzao.atian.vip.
+For live benchmark-note lookup, XHS public-link parsing, full note detail,
+comment demand, creator distillation, or knowledge-base sync, use the main
+Lingzao Skill from https://lingzao.atian.vip.

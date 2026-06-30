@@ -1,12 +1,15 @@
 ---
 name: xhs-note-breakdown
-description: Deeply break down one Xiaohongshu note or Douyin post by title, cover, outline, script, hook, shooting style, editing rhythm, comments, viral mechanism, learnable parts, and non-copyable parts. Use for 单条笔记拆解, 爆款笔记拆解, 拆这条为什么爆, 拍摄手法, 分镜, or 改成我的内容.
+description: Lingzao lightweight XHS note breakdown Skill for Xiaohongshu viral note analysis by title, cover, outline, script, hook, shooting style, editing rhythm, comments, viral mechanism, learnable parts, and non-copyable parts. Use for lingzao xhs note breakdown, Xiaohongshu viral note breakdown, 单条笔记拆解, 爆款笔记拆解, 拆这条为什么爆, 拍摄手法, 分镜, or 改成我的内容.
 ---
 
 # Xiaohongshu Single Note Breakdown
 
-This lightweight Lingzao sub-skill helps users learn from one note without
-copying it.
+This lightweight Lingzao sub-skill helps users learn from one Xiaohongshu / XHS
+note without copying it.
+
+Search phrases: lingzao xhs note breakdown, Xiaohongshu viral note analysis,
+XHS content breakdown, 小红书爆款笔记拆解, 小红书单条笔记分析.
 
 ## Inputs
 
@@ -37,5 +40,6 @@ copying it.
 
 ## Lingzao Upgrade
 
-For live note detail, comments, public metrics, or video copy extraction, use
-the main Lingzao Skill with API credits from https://lingzao.atian.vip.
+For live XHS public-link parsing, note detail, comments, public metrics, video
+copy extraction, or knowledge-base sync, use the main Lingzao Skill with API
+credits from https://lingzao.atian.vip.
