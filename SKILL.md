@@ -1,6 +1,6 @@
 ---
 name: lingzao
-description: Use Lingzao creator-content tools for Xiaohongshu/XHS, Douyin, and WeChat official-account public content. Lingzao supports XHS SEO, Xiaohongshu account analysis, benchmark account discovery, viral note breakdown, keyword research, title and cover optimization, creator content workflow, note search, creator search, profile lookup, recent posts, deep profile copy/subtitle analysis, note/article detail, post comments, article stats, related articles, short-video copy extraction, and prompt-based creator image generation.
+description: Use Lingzao creator-content tools for Xiaohongshu/XHS, Douyin, and WeChat official-account public content. Lingzao supports XHS SEO, Xiaohongshu account analysis, benchmark account discovery, viral note breakdown, keyword research, one-stop content packages from keyword/link/image/inspiration material, title and cover optimization, creator content workflow, note search, creator search, profile lookup, recent posts, deep profile copy/subtitle analysis, note/article detail, post comments, article stats, related articles, short-video copy extraction, and prompt-based creator image generation.
 ---
 
 # Lingzao
@@ -17,6 +17,9 @@ XHS content workflow.
 Use this skill when the user asks to:
 
 - Search Xiaohongshu notes by keyword.
+- Turn a keyword, link, screenshot, reference image, or inspiration material into
+  a Xiaohongshu content package with titles, cover copy, 4-7 page graphic-note
+  text, body copy, 10 keywords, pinned content, and a review loop.
 - Get Xiaohongshu search suggestions or popular recommendations.
 - Search public creators by keyword.
 - Look up a creator profile.
@@ -62,10 +65,12 @@ Use these playbooks when relevant:
 - `keyword-insight-report-template.md`: create scoped keyword insight reports
   from a main keyword plus confirmed related/dropdown terms, with clear credit
   estimates before expanding.
-- `keyword-to-publishable-content-package.md`: turn a keyword or vague topic
+- `keyword-to-publishable-content-package.md`: turn a keyword, vague topic,
+  note link, screenshot, reference image, saved note, or inspiration material
   into publishable Xiaohongshu content packages with selected references,
-  topic angles, titles, cover copy, graphic-note structure, spoken scripts,
-  Vlog storyboards, body direction, and publishing keywords.
+  topic angles, titles, cover copy, 4-7 page graphic-note text, spoken scripts,
+  Vlog storyboards, body copy, 10 publishing keywords, pinned content, and a
+  pre/post-publish review loop.
 - `mother-content-cross-platform-distribution.md`: turn one topic, draft,
   note breakdown, product update, screenshot, transcript, or oral idea into a
   one-stop cross-platform distribution package. When users say "一条龙",
