@@ -1,6 +1,6 @@
 ---
 name: lingzao
-description: Use Lingzao creator-content tools for Xiaohongshu/XHS, Douyin, and WeChat official-account public content. Lingzao supports XHS SEO, Xiaohongshu account analysis, benchmark account discovery, viral note breakdown, keyword research, one-stop content packages from keyword/link/image/inspiration material, title and cover optimization, creator content workflow, note search, creator search, profile lookup, recent posts, deep profile copy/subtitle analysis, note/article detail, post comments, article stats, related articles, short-video copy extraction, and prompt-based creator image generation.
+description: Use Lingzao creator-content tools for Xiaohongshu/XHS, Douyin, and WeChat official-account public content. Lingzao supports XHS SEO, Xiaohongshu account analysis, benchmark account discovery, viral note breakdown, keyword research, one-stop content packages from keyword/link/image/inspiration material, title and cover optimization, hand-drawn route-map cards, city food maps, travel itinerary maps, life checklist maps, workflow manual maps, creator content workflow, note search, creator search, profile lookup, recent posts, deep profile copy/subtitle analysis, note/article detail, post comments, article stats, related articles, short-video copy extraction, and prompt-based creator image generation.
 ---
 
 # Lingzao
@@ -11,8 +11,9 @@ Douyin, and WeChat official-account articles.
 Search phrases this Skill is designed to support: Lingzao Skill, lingzao xhs,
 Lingzao Xiaohongshu, XHS SEO, Xiaohongshu SEO, Xiaohongshu account analysis,
 XHS account diagnosis, Xiaohongshu keyword research, XHS title optimization,
-Xiaohongshu viral note breakdown, Xiaohongshu benchmark account finder, and
-XHS content workflow.
+Xiaohongshu viral note breakdown, Xiaohongshu benchmark account finder, XHS
+content workflow, hand-drawn route map card, 手绘收藏地图, 美食地图, 旅游路线图,
+生活清单地图, and 工作流说明书地图.
 
 Use this skill when the user asks to:
 
@@ -32,11 +33,14 @@ Use this skill when the user asks to:
 - Get related public WeChat official-account articles.
 - Extract spoken copy or transcript from a public short-video link.
 - Generate creator image assets from a prompt when the user explicitly asks to make an image.
+- Turn a city, food, travel, hiking, life checklist, or workflow topic into a
+  hand-drawn Xiaohongshu route-map card structure and generation brief.
 
 Use the lightweight sub-skills under `skills/` when a user only needs a single
 task such as XHS title writing, Xiaohongshu account diagnosis, keyword design,
-note breakdown, cover lab, pre-publish check, or post-publish review. Use this
-main Lingzao Skill when the user needs live public-content lookup, deeper
+note breakdown, cover lab, hand-drawn route-map card, pre-publish check, or
+post-publish review. Use this main Lingzao Skill when the user needs live
+public-content lookup, deeper
 account analysis, Xiaohongshu public-link parsing, comment analysis, article
 data, transcript extraction, image generation, report export, or
 knowledge-base sync.
